@@ -1,7 +1,7 @@
 Hello there!👩‍💻📃
 <br>
 <br>
-My name is Daniel, actualy I´m studying and impruving my skills as a developer front end and pretty soon as a full stack!
+My name is Daniel, actually I´m studying and improving my skills as a developer front end and pretty soon as a full stack!
 <br>
 🚀 Some of my skills🚀:
 <br>
